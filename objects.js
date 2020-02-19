@@ -1,4 +1,4 @@
-var playlist={eminem:"goat"};
+var playlist={eminem:"goat",Slowdive:'Rent'};
 function updatePlaylist(playlist, artistName, songTitle)
 {
   return playlist[artistName]="songTitle";
